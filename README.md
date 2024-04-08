@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Ayush Jain! 👋
 
-<!--
-**AyushJain7048/AyushJain7048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying at Chitkara University and am deeply passionate about technology and programming. I'm on a journey to learn and master multiple programming languages, including C++, Java, and Python. My curiosity drives me to explore new technologies and constantly learn new things.
 
-Here are some ideas to get you started:
+## 📚 Education
+- Pursuing a degree at **Chitkara University**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages
+- **C++**: Used for competitive programming and projects.
+- **Java**: Leveraged in Android app development and backend applications.
+- **Python**: Utilized for scripting, automation, and data analysis.
+
+## 🚀 Projects
+My biggest project to date on GitHub is the [Generic WhatsApp Discord Spammer](https://github.com/AyushJain7048/Generic-WhatApp-Discord-Spammer). It's a tool designed to automate message sending on WhatsApp and Discord, showcasing my skills in software development and understanding of APIs.
+
+## 🌱 I’m currently learning
+- I'm actively expanding my knowledge in the technologies I know and diving into new ones that catch my interest. 
+- Exploring new frameworks and libraries to bolster my development skills.
+- Staying updated with the latest trends in technology and programming.
+
+## 🤝 How to reach me
+- Feel free to connect with me on [Discord](#) (https://discord.com/) clauck.
+- Check out my projects on [GitHub](https://github.com/AyushJain7048).
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun fact
+I'm always there to learn new things and never shy away from a challenge. Join me on my journey as we explore the vast world of technology together!
+
