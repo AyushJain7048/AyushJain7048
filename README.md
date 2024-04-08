@@ -19,7 +19,7 @@ My biggest project to date on GitHub is the [Generic WhatsApp Discord Spammer](h
 - Staying updated with the latest trends in technology and programming.
 
 ## 🤝 How to reach me
-- Feel free to connect with me on [Discord](#) (https://discord.com/) clauck.
+- Feel free to connect with me on Discord Username: clauck.
 - Check out my projects on [GitHub](https://github.com/AyushJain7048).
 
 ## 😄 Pronouns
