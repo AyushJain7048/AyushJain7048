@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Jain! 👋
+# Hi there, I'm Friker007! 👋
 
 I'm currently studying at Chitkara University and am deeply passionate about technology and programming. I'm on a journey to learn and master multiple programming languages, including C++, Java, and Python. My curiosity drives me to explore new technologies and constantly learn new things.
 
